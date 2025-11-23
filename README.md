@@ -61,15 +61,6 @@ Calculating correlation between population and generation
 
 All major computation, logic, and analysis was done in Python. Excel was only used for light preparation and final verification.
 
-## Final Cleaned Output Files (Used in Tableau)
-
-These are the main files generated from Python and used in Tableau:
-AESO_Load_2011_2024_Final.csv
-AESO_Generation_By_Fuel_2020_2025_Clean.csv (long format)
-AESO_Generation_By_Fuel_2020_2025_Wide.csv (wide format)
-AESO_Load_Generation_2020_2024_with_Surge.csv
-Generation_Population_Yearly_2020_2024.csv
-
 ## 📊 Tableau Dashboards
 ableau Dashboards
 Using these files, the following dashboards were created:
